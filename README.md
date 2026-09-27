@@ -2,13 +2,7 @@
 
 <p><code>rodrigop07@github ~ $ ./maintainer.sh</code></p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=rodrigop07&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80424398%3Fu%3Dd89fe58717e29d053d73f9d0685e14b9187189ec%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=rodrigop07&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80424398%3Fu%3Dd89fe58717e29d053d73f9d0685e14b9187189ec%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Rodrigo Pinheiro animated maintainer system scan" />
-</picture>
-</p>
-</div>
+
 
 <h2>Why I build in public</h2>
 
@@ -71,16 +65,6 @@
 </picture>
 </p>
 
-<h2>Contribution trail</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rodrigop07&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80424398%3Fu%3Dd89fe58717e29d053d73f9d0685e14b9187189ec%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rodrigop07&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80424398%3Fu%3Dd89fe58717e29d053d73f9d0685e14b9187189ec%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Rodrigo Pinheiro contribution trail" />
-</picture>
-</p>
-
-<hr />
 
 <h2>Contribute together</h2>
 
